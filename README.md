@@ -1,3 +1,5 @@
+#tarotscript
+
 MIT License
 
 Copyright (c) 2016 David Emanuel Röttger
