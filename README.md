@@ -1,4 +1,7 @@
-#tarotscript
+##tarotscript
+
+Tarot Extendscript Project
+
 
 MIT License
 
